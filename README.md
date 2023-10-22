@@ -12,14 +12,13 @@ This is a modified version of [the minimal mistake template](https://github.com/
    - Navigate to the root directory of the project.
    - Open the `_config.yml` file. This is the main configuration file and is essential for setting up your site.
 
-Editing the `_config.yml` file:
-
-   - `title`: Replace the existing title with the title of your website.
-   - `email`: Update it with your email address.
-   - `description`: Add a brief description of your website or a tagline.
-   - `url`: Set the base URL of your website.
-   - `repository`: Update the repository field with the path to your GitHub repository.
-   - `author`: Replace the existing author name with your name and the associated social media profiles.
+   - Editing the `_config.yml` file:
+      - `title`: Replace the existing title with the title of your website.
+      - `email`: Update it with your email address.
+      - `description`: Add a brief description of your website or a tagline.
+      - `url`: Set the base URL of your website.
+      - `repository`: Update the repository field with the path to your GitHub repository.
+      - `author`: Replace the existing author name with your name and the associated social media profiles.
 
 3. **Posts**
 
